@@ -39,14 +39,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<br>
-
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2041%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-931-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
-
 
 <br>
 
