@@ -51,6 +51,13 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+<br>
+## Projects I have worked on and are already in production
+<a href="https://play.google.com/store/apps/details?id=io.eonnet.backoffice&hl=es_MX&gl=US" target="_blank"><img width="498" alt="meet_link" src="https://play-lh.googleusercontent.com/OpfV8SNGUMO_MkCxEk-JEJThRCX11o5re1EbMsdcMOvJQ62Vg03am1R0qcOJSIHczA=w526-h296-rw"></a>
+<a href="https://eonnet.io/" target="_blank"><img width="498" alt="meet_link" src="https://yt3.googleusercontent.com/XqpqZS0EnGeWm557S816IYkbXXPgN9Sgkws8Wd7QRcuhoihkIYw6o0z_Vs3WRB3RXU3o1vI2QQ=s900-c-k-c0x00ffffff-no-rj"></a>
+<a href="https://calendly.com/libarra2/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
 <!--
 **GerardoIbarra/GerardoIbarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
