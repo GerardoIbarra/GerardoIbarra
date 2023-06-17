@@ -41,6 +41,15 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <br>
 
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2041%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-931-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
+
+
+<br>
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
