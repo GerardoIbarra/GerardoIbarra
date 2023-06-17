@@ -55,8 +55,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br>
 ## Projects I have worked on and are already in production
 <p>
-<a href="https://play.google.com/store/apps/details?id=io.eonnet.backoffice&hl=es_MX&gl=US" target="_blank"><img width="498" alt="meet_link" src="https://img.shields.io/badge/-EonApp-ff6d5a?style=flat-square"></a>
-<a href="https://eonnet.io/" target="_blank"><img width="498" alt="meet_link" src="https://img.shields.io/badge/-EonWeb-ff6d5a?style=flat-square"></a>
+<a href="https://play.google.com/store/apps/details?id=io.eonnet.backoffice&hl=es_MX&gl=US" target="_blank"><img width="498" alt="meet_link" src="https://img.shields.io/badge/-EonApp-ff6d5a?style=flat-square&logo=react&logoColor=white" /></a>
+<a href="https://eonnet.io/" target="_blank"><img width="498" alt="meet_link" src="https://img.shields.io/badge/-EonWeb-ff6d5a?style=flat-square&logo=react&logoColor=white" /></a>
 </p>
 <!--
 **GerardoIbarra/GerardoIbarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
